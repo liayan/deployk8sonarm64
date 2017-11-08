@@ -1,0 +1,20 @@
+{
+  "CN": "etcd",
+  "hosts": [
+    "127.0.0.1",
+    "192.168.2.220"
+  ],
+  "key": {
+    "algo": "rsa",
+    "size": 2048
+  },
+  "names": [
+    {
+      "C": "US",
+      "ST": "KY",
+      "L": "Louisville",
+      "O": "k8s",
+      "OU": "System"
+    }
+  ]
+}

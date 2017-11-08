@@ -1,0 +1,17 @@
+{
+  "CN": "flanneld",
+  "hosts": [],
+  "key": {
+    "algo": "rsa",
+    "size": 2048
+  },
+  "names": [
+    {
+      "C": "US",
+      "ST": "KY",
+      "L": "Louisville",
+      "O": "k8s",
+      "OU": "System"
+    }
+  ]
+}
